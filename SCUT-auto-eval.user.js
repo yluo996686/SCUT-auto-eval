@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         SCUT教务处自动评价
-// @namespace    https://github.com/your-username/scut-auto-eval
+// @namespace    https://github.com/yluo996686/scut-auto-eval
 // @version      1.3
 // @description  自动填写评价+自动提交+自动点击“确定”，用于华南理工大学教务处评教页面。
 // @author       落叶
 // @match        https://pj.jw.scut.edu.cn/index.html*
 // @grant        none
 // @license      MIT
-// @updateURL    https://raw.githubusercontent.com/your-username/scut-auto-eval/main/scut-auto-eval.user.js
-// @downloadURL  https://raw.githubusercontent.com/your-username/scut-auto-eval/main/scut-auto-eval.user.js
+// @updateURL    https://github.com/yluo996686/SCUT-auto-eval/raw/refs/heads/main/SCUT-auto-eval.user.js
+// @downloadURL  https://github.com/yluo996686/SCUT-auto-eval/raw/refs/heads/main/SCUT-auto-eval.user.js
 // ==/UserScript==
 
 (function() {
