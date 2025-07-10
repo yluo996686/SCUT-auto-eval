@@ -18,7 +18,7 @@
 1. 安装浏览器插件 [Tampermonkey](https://www.tampermonkey.net/)
 2. 点击以下链接自动安装脚本：
 
-👉 [点击安装 SCUT 教务自动评价脚本]([https://github.com/yluo996686/SCUT-auto-eval/raw/refs/heads/main/SCUT-auto-eval.user.js])
+👉 [点击安装 SCUT 教务自动评价脚本](https://github.com/yluo996686/SCUT-auto-eval/raw/refs/heads/main/SCUT-auto-eval.user.js)
 
 ---
 
