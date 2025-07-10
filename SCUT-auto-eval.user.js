@@ -3,7 +3,7 @@
 // @namespace    https://github.com/yluo996686/scut-auto-eval
 // @version      1.3
 // @description  自动填写评价+自动提交+自动点击“确定”，用于华南理工大学教务处评教页面。
-// @author       yluo
+// @author       落叶
 // @match        https://pj.jw.scut.edu.cn/index.html*
 // @grant        none
 // @license      MIT
